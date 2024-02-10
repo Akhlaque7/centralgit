@@ -4,3 +4,14 @@
     int sum=num1+num2+num3;
     System.out.print("the sum is ");
    System.out.println(sum);
+        int x=50;
+        int y=10;
+ 
+        // declare another variable to hold the substracted value
+        int subtract;
+ 
+        // calculate the substraction 
+        subtract = x - y;
+ 
+        // print the calculated subtract value
+        System.out.println("The substraction of two Numbers: " + subtract);
